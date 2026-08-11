@@ -1,0 +1,13 @@
+Precision:
+1. Spam Email Detection => Haqiqiy emailni spam deb yuborish yomon
+2. Credit Card Fraud Detection => Normal tranzaksiyani fraud deb bloklash mijozga muammo tug‘diradi
+3. Job Candidate Recommendation => Mos kelmaydigan nomzodlarni recruiter'ga ko‘p chiqarish vaqtni behuda sarflaydi
+4. Online Advertisement Targeting => Reklamani noto‘g‘ri auditoriyaga ko‘rsatish pulni isrof qiladi
+5. Face Recognition Access System => Ofisga kirishda model "bu odam ruxsatli" deb noto‘g‘ri aytmasligi kerak.
+
+Recall:
+1. Cancer Detection => Kasallik bor bemorni "sog‘lom" deb yubormaslik kerak
+2. Fire Detection => Yong‘inni o'tkazib yuborish katta zarar keltirishi mumkin
+3. Missing Person Detection => Yo‘qolgan odamni detection tizimi o'tkazib yubormasligi kerak
+4. Cyberattack / Intrusion Detection => Hujumni aniqlamay qolish xavfli
+5. Aircraft Engine Failure Detection => Dvigatelda muammo borligini tizim o'tkazib yubormasligi kerak.
